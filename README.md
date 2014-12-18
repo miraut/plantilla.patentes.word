@@ -12,9 +12,9 @@ Mejora algunos aspectos de la plantilla de ejemplo que se ofrece en la página w
 - Los campos de autor, título y compañía están vacíos, como corresponde a una plantilla de un documento que se va a utilizar para reclamar derechos de propiedad industrial
 
 
-Word template for wriiting patent applications in Spanish.
+Word template for writing patent applications in Spanish.
 Actual format follows Spanish Patent and Trademark Office (OEPM) criteria.
-Ii improves some aspects of the original template which is offered on the OEPM website, such as:
+It improves some aspects of the original template which is offered on the OEPM website, such as:
 
 - Style of titles and text is according to the example format
 - Document is organized in sections. They correspond to the ones that must be presented in different pages
