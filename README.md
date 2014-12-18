@@ -9,7 +9,8 @@ Mejora algunos aspectos de la plantilla de ejemplo que se ofrece en la página w
 - Organización en secciones que se corresponden a los apartados que deben entregarse en páginas aparte
 - La sección de figuras no tiene números de línea en el margen
 - Color del texto uniforme (de acuerdo con lo indicado en los estilos)
-- Los campos de autor, título y compañía están vacíos, como corresponde a una plantilla de un documento que se va a utilizar para reclamar derechos de propiedad industrial
+- Los campos de título y compañía (empresa) están vacíos, como corresponde a una plantilla de un documento que se va a utilizar para reclamar derechos de propiedad industrial
+- El campo del autor se actualiza una vez se hacen cambios y se guarda el documento
 
 
 Word template for writing patent applications in Spanish.
@@ -20,4 +21,5 @@ It improves some aspects of the original template which is offered on the OEPM w
 - Document is organized in sections. They correspond to the ones that must be presented in different pages
 - Figure section does not have line numbers in the margin
 - Text has a uniform color
-- Author, title and company fields are empty, as it should be expeted for a document that will be used to claim industrial property rights
+- Title and company fields are empty, as it should be expeted for a document that will be used to claim industrial property rights
+- Author field is actualized by saving the gchanges in the file.
